@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=https://relativ-it.github.io/Butane-Schemas/Butane-Schema.json
+
+variant: fcos
+version: 1.7.0
+passwd:
+  users:
+    - name: pervoj
+      groups: [wheel, sudo]
+      ssh_authorized_keys:
+        - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILKojovVHUlA0rdikhIZFo9lmGM9bw3dLTT0idnaS8Df
