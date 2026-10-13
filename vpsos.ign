@@ -1,0 +1,19 @@
+{
+  "ignition": {
+    "version": "3.6.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "groups": [
+          "wheel",
+          "sudo"
+        ],
+        "name": "pervoj",
+        "sshAuthorizedKeys": [
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILKojovVHUlA0rdikhIZFo9lmGM9bw3dLTT0idnaS8Df"
+        ]
+      }
+    ]
+  }
+}
