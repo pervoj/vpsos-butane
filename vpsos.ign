@@ -10,6 +10,7 @@
           "sudo"
         ],
         "name": "pervoj",
+        "passwordHash": "$y$j9T$uB9yLKt.P9iC/ZmPOz7jR0$egjNbuSLwww362eZKCr0I/7zBnbQfYysWutMn6ZDepD",
         "sshAuthorizedKeys": [
           "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILKojovVHUlA0rdikhIZFo9lmGM9bw3dLTT0idnaS8Df"
         ]
